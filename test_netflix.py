@@ -3,11 +3,12 @@ from selenium import webdriver
 import netflix
 import nose
 import sys
+import codecs
 from getpass import getpass
 
 def test_coverage():
 	'''Generate tests'''
-	with open('movies') as top250:
+	with codecs.open('movies', encoding='utf-8') as top250:
 		for line in top250:
 			yield check_exists, line.strip()
 
