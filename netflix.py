@@ -27,9 +27,8 @@ def get_title(driver, title):
 			return True
 	return False
 
-def login(driver, email):
+def login(driver, email, password):
 	'''Login to netflix'''
-	password = getpass()
 	driver.get("https://signup.netflix.com/Login")
 	driver.find_element_by_id('email').send_keys(email)
 	entry = driver.find_element_by_id('password')
@@ -45,11 +44,13 @@ if __name__ == '__main__':
 	if len(sys.argv) != 3:
 		sys.exit('Usage: email title')
 
+	password = getpass()
+
 	# Create a new instance of the Firefox driver
 	d = webdriver.Firefox()
 
 	try:
-		login(d, sys.argv[1])
+		login(d, sys.argv[1], password)
 		print get_title(d, sys.argv[2])
 	finally:
 	    d.quit()
