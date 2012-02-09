@@ -11,6 +11,9 @@ def get_title(driver, title):
 		title = title[:-5]
 
 	driver.get("http://www.netflix.co.uk")
+	WebDriverWait(driver, 10).until(
+			lambda driver: driver.find_element_by_id('searchField'))
+
 	search = driver.find_element_by_id('searchField')
 	search.send_keys(title)
 	search.submit()
@@ -34,8 +37,6 @@ def login(driver, email, password):
 	entry = driver.find_element_by_id('password')
 	entry.send_keys(password)
 	entry.submit()
-	WebDriverWait(driver, 10).until(
-			lambda driver: driver.find_element_by_id('searchField'))
 
 if __name__ == '__main__':
 	# Look up a film
