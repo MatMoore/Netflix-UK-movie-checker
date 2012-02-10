@@ -10,7 +10,8 @@
 				<title>IMDB top 250 movies on netflix.co.uk</title>
 				<style type="text/css">
 					body { font-family: 'Lemon', serif; background-color: #900; color: #fff; text-align:center;}
-					h1 {text-align:center; margin: 20px; font-weight:normal; font-size: 1.5em;}
+					h1 {text-align:center; margin: 20px 20px 10px 20px; font-weight:normal; font-size: 1.5em;}
+					h2 {text-align:center; margin: 10px 20px; font-weight:normal; font-size: 1em;}
 					ul {list-style: none; margin: 20px; auto; background-color:#252525; display:inline-block; padding: 15px; text-align:left; font-size:1.1em; color: #ccc;}
 					li {padding: 10px 10px;}
 					.success { color: #0c0;}
