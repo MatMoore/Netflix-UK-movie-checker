@@ -1,58 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-    <xsl:output method="html"/>
-    <xsl:template match="/">
-        <xsl:text disable-output-escaping="yes"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">]]></xsl:text>
-        <html>
-            <head>
-                <title>
-                    xUnit.net Test Results - <xsl:value-of select="@name"/>
-                </title>
-                <style type="text/css">
-                    body { font-family: Calibri, Verdana, Arial, sans-serif; background-color: White; color: Black; }
-                    h2,h3,h4,h5 { margin: 0; padding: 0; }
-                    h3 { font-weight: normal; }
-                    h5 { font-weight: normal; font-style: italic; margin-bottom: 0.75em; }
-                    pre { font-family: Consolas; font-size: 85%; margin: 0 0 0 1em; padding: 0; }
-                    .divided { border-top: solid 1px #f0f5fa; padding-top: 0.5em; }
-                    .row, .altrow { padding: 0.1em 0.3em; }
-                    .row { background-color: #f0f5fa; }
-                    .altrow { background-color: #e1ebf4; }
-                    .success, .failure, .skipped { font-family: Arial Unicode MS; font-weight: normal; float: left; width: 1em; display: block; }
-                    .success { color: #0c0; }
-                    .failure { color: #c00; }
-                    .skipped { color: #cc0; }
-                    .timing { float: right; }
-                    .indent { margin: 0.25em 0 0.5em 2em; }
-                    .clickable { cursor: pointer; }
-                    .testcount { font-size: 85%; }
-                </style>
-                <script language="javascript">
-                    function ToggleClass(id) {
-                        var elem = document.getElementById(id);
-                        if (elem.style.display == "none") {
-                            elem.style.display = "block";
-                        }
-                        else {
-                            elem.style.display = "none";
-                        }
-                    }
-                </script>
-            </head>
-            <body>
-                <xsl:apply-templates/>
-            </body>
-        </html>
-    </xsl:template>
+	<xsl:output method="html"/>
+	<xsl:template match="/">
+		<xsl:text disable-output-escaping="yes"><![CDATA[<!DOCTYPE html">]]></xsl:text>
+		<html>
+			<head>
+				<meta charset="utf-8" />
+				<link href='http://fonts.googleapis.com/css?family=Lemon:400,700&amp;subset=latin-ext' rel='stylesheet' type='text/css'/>
+				<title>
+					IMDB top 250 movies on netflix.co.uk
+				</title>
+				<style type="text/css">
+					body { font-family: 'Lemon', serif; background-color: #900; color: #fff; text-align:center;}
+					h1 {text-align:center; margin: 20px; font-weight:normal; font-size: 1.5em;}
+					ul {list-style: none; margin: 20px; auto; background-color:#252525; display:inline-block; padding: 15px; text-align:left; font-size:1.1em; color: #ccc;}
+					li {padding: 0.4em 0;}
+					.success { color: #0c0;}
+					.failure {color: #c00;}
+					.success, .failure {float:right; margin-left:1em;}
+				</style>
+			</head>
+			<body>
+				<h1>Movies in the IMDB top 250 that are available on Netflix UK</h1>
+				<ul>
+					<xsl:apply-templates/>
+				</ul>
+			</body>
+		</html>
+	</xsl:template>
 
-    <xsl:template match="failure">
-        <span class="failure">&#x2718;</span> <xsl:value-of select="substring(../@name, 26, (string-length(../@name)) - 28)"/><br clear="all"/>
-    </xsl:template>
+	<xsl:template match="failure">
+		<li><xsl:value-of select="substring(../@name, 26, (string-length(../@name)) - 28)"/><span class="failure">&#x2718;</span></li>
+	</xsl:template>
 
-    <xsl:template match="testcase[.='']">
-        <span class="success">&#x2713;</span> <xsl:value-of select="substring(@name, 26, (string-length(@name)) - 28)"/><br clear="all"/>
-    </xsl:template>
+	<xsl:template match="testcase[.='']">
+		<li><xsl:value-of select="substring(@name, 26, (string-length(@name)) - 28)"/><span class="success">&#x2713;</span></li>
+	</xsl:template>
 
-    <xsl:template match="text()"></xsl:template>
+	<xsl:template match="text()"></xsl:template>
 
 </xsl:stylesheet>
