@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="250" errors="3" failures="209" skip="0"><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Shawshank Redemption&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Godfather&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Godfather: Part II&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Pulp Fiction&#39;,)" time="7" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Good, the Bad and the Ugly&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;12 Angry Men&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&quot;Schindler&#39;s List&quot;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Dark Knight&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Lord of the Rings: The Return of the King&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&quot;One Flew Over the Cuckoo&#39;s Nest&quot;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Star Wars: Episode V - The Empire Strikes Back&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Fight Club&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Inception&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Seven Samurai&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Lord of the Rings: The Fellowship of the Ring&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Goodfellas&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Star Wars: Episode IV - A New Hope&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;City of God&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Casablanca&#39;,)" time="9"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Matrix&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Once Upon a Time in the West&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Rear Window&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Indiana Jones and the Raiders of the Lost Ark&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Usual Suspects&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Silence of the Lambs&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Se7en&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Psycho&#39;,)" time="11" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Forrest Gump&#39;,)" time="4"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Lord of the Rings: The Two Towers&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&quot;It&#39;s a Wonderful Life&quot;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Leon&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Memento&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Sunset Boulevard&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__.test_coverage(u&#39;Dr" name="__main__.test_coverage(u&#39;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Apocalypse Now&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;American History X&#39;,)" time="13"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;North by Northwest&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Citizen Kane&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Terminator 2: Judgment Day&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Saving Private Ryan&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;American Beauty&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Toy Story 3&#39;,)" time="12"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Taxi Driver&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Alien&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;City Lights&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Spirited Away&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Vertigo&#39;,)" time="4"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Shining&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Paths of Glory&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;M&#39;,)" time="4" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Pianist&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Amelie&#39;,)" time="9"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Departed&#39;,)" time="4"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;WALL·E&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Double Indemnity&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Lives of Others&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Modern Times&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;A Clockwork Orange&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Aliens&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Lawrence of Arabia&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;To Kill a Mockingbird&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Life Is Beautiful&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Back to the Future&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Das Boot&#39;,)" time="4" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Requiem for a Dream&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Eternal Sunshine of the Spotless Mind&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Reservoir Dogs&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Third Man&#39;,)" time="8"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;A Separation&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Prestige&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__.test_coverage(u&#39;L.A" name="__main__.test_coverage(u&#39;L.A. Confidential&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Chinatown&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Green Mile&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Treasure of the Sierra Madre&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Cinema Paradiso&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Great Dictator&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Gladiator&#39;,)" time="15"><error type="selenium.common.exceptions.TimeoutException">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+  File &quot;/media/stuff/code/projects/netflix/netflix.py&quot;, line 23, in get_title
+    lambda driver: driver.find_element_by_xpath(xpath))
+  File &quot;/usr/local/lib/python2.6/dist-packages/selenium/webdriver/support/wait.py&quot;, line 55, in until
+    raise TimeoutException()
+TimeoutException: Message: None 
+</error></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Once Upon a Time in America&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Monty Python and the Holy Grail&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Rashomon&#39;,)" time="4"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Full Metal Jacket&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Amadeus&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Some Like It Hot&#39;,)" time="13" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Bicycle Thieves&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Raging Bull&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&quot;Singin&#39; in the Rain&quot;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;All About Eve&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Braveheart&#39;,)" time="4"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Bridge on the River Kwai&#39;,)" time="13"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;2001: A Space Odyssey&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Metropolis&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Oldboy&#39;,)" time="4" /><testcase classname="__main__" name="__main__.test_coverage(u&quot;Pan&#39;s Labyrinth&quot;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Apartment&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Unforgiven&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Star Wars: Episode VI - Return of the Jedi&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Sting&#39;,)" time="11"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Downfall&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Princess Mononoke&#39;,)" time="18"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Inglourious Basterds&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Indiana Jones and the Last Crusade&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__.test_coverage(u&#39;Mr" name="__main__.test_coverage(u&#39;Mr. Smith Goes to Washington&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Elephant Man&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;On the Waterfront&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Lion King&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Up&#39;,)" time="6" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Die Hard&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Seventh Seal&#39;,)" time="12" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Grave of the Fireflies&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Maltese Falcon&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Gran Torino&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Great Escape&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Rebecca&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Yojimbo&#39;,)" time="15"><error type="selenium.common.exceptions.TimeoutException">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+  File &quot;/media/stuff/code/projects/netflix/netflix.py&quot;, line 23, in get_title
+    lambda driver: driver.find_element_by_xpath(xpath))
+  File &quot;/usr/local/lib/python2.6/dist-packages/selenium/webdriver/support/wait.py&quot;, line 55, in until
+    raise TimeoutException()
+TimeoutException: Message: None 
+</error></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Batman Begins&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;For a Few Dollars More&#39;,)" time="9"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Witness for the Prosecution&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The General&#39;,)" time="11"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Heat&#39;,)" time="4" /><testcase classname="__main__.test_coverage(u&#39;Snatch" name="__main__.test_coverage(u&#39;Snatch.&#39;,)" time="4"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Fargo&#39;,)" time="4" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Blade Runner&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Sin City&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Ran&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Wild Strawberries&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Artist&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Touch of Evil&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Toy Story&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Hotel Rwanda&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Black Swan&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Jaws&#39;,)" time="14"><error type="selenium.common.exceptions.TimeoutException">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+  File &quot;/media/stuff/code/projects/netflix/netflix.py&quot;, line 23, in get_title
+    lambda driver: driver.find_element_by_xpath(xpath))
+  File &quot;/usr/local/lib/python2.6/dist-packages/selenium/webdriver/support/wait.py&quot;, line 55, in until
+    raise TimeoutException()
+TimeoutException: Message: None 
+</error></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;No Country for Old Men&#39;,)" time="8"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Big Lebowski&#39;,)" time="8"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&quot;The King&#39;s Speech&quot;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Deer Hunter&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Cool Hand Luke&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Wizard of Oz&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Sixth Sense&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;It Happened One Night&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Strangers on a Train&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Ikiru&#39;,)" time="4"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Scarface&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Annie Hall&#39;,)" time="5" /><testcase classname="__main__.test_coverage(u&#39;Kill Bill: Vol" name="__main__.test_coverage(u&#39;Kill Bill: Vol. 1&#39;,)" time="7" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Warrior&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Kid&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;High Noon&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Platoon&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Wages of Fear&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Gold Rush&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Trainspotting&#39;,)" time="8"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Into the Wild&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Donnie Darko&#39;,)" time="6" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Butch Cassidy and the Sundance Kid&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Lock, Stock and Two Smoking Barrels&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Notorious&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Slumdog Millionaire&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Grapes of Wrath&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Secret in Their Eyes&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Sunrise: A Song of Two Humans&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Gone with the Wind&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Million Dollar Baby&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Thing&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;There Will Be Blood&#39;,)" time="6" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Casino&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Amores Perros&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Life of Brian&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Groundhog Day&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Ben-Hur&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Les Diaboliques&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Finding Nemo&#39;,)" time="10"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;My Neighbour Totoro&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Big Sleep&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Best Years of Our Lives&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Terminator&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;How to Train Your Dragon&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Graduate&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;V for Vendetta&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Stand by Me&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Twelve Monkeys&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Dog Day Afternoon&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Good Will Hunting&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Bourne Ultimatum&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Manchurian Candidate&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Judgement at Nuremberg&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;District 9&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Network&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Gandhi&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Night of the Hunter&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The 400 Blows&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Mary and Max&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Battle of Algiers&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;8½&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Dial M for Murder&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Persona&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Princess Bride&#39;,)" time="7" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Killing&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Wrestler&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Hugo&#39;,)" time="4"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Ratatouille&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Hustler&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;La Strada&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&quot;Who&#39;s Afraid of Virginia Woolf?&quot;,)" time="12"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Harry Potter and the Deathly Hallows: Part 2&#39;,)" time="9"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Passion of Joan of Arc&#39;,)" time="8"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Fanny and Alexander&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Exorcist&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&quot;Howl&#39;s Moving Castle&quot;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Diving Bell and the Butterfly&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Harakiri&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Wild Bunch&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__.test_coverage(u&#39;Sherlock Jr" name="__main__.test_coverage(u&#39;Sherlock Jr.&#39;,)" time="10"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Stalag 17&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Barry Lyndon&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;A Streetcar Named Desire&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Star Trek&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Girl with the Dragon Tattoo&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Rocky&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Kind Hearts and Coronets&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;All Quiet on the Western Front&#39;,)" time="14" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Truman Show&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Avatar&#39;,)" time="4" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Nights of Cabiria&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Drive&#39;,)" time="5" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Infernal Affairs&#39;,)" time="13" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Festen&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;A Beautiful Mind&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&quot;Rosemary&#39;s Baby&quot;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Roman Holiday&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Rope&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Let the Right One In&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Mystic River&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Ip Man&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Man Who Shot Liberty Valance&#39;,)" time="6" /><testcase classname="__main__" name="__main__.test_coverage(u&#39;Tokyo Story&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Elite Squad: The Enemy Within&#39;,)" time="13"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Magnolia&#39;,)" time="9"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Pirates of the Caribbean: The Curse of the Black Pearl&#39;,)" time="7"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Manhattan&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Big Fish&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Stalker&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;The Incredibles&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;In Bruges&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Beauty and the Beast&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Nausicaä of the Valley of the Wind&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__.test_coverage(u&#39;Monsters, Inc" name="__main__.test_coverage(u&#39;Monsters, Inc.&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Three Colours: Red&#39;,)" time="6"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Ed Wood&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;3 Idiots&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase><testcase classname="__main__" name="__main__.test_coverage(u&#39;Shutter Island&#39;,)" time="5"><failure type="exceptions.AssertionError">Traceback (most recent call last):
+  File &quot;/usr/lib/python2.6/unittest.py&quot;, line 279, in run
+    testMethod()
+  File &quot;/usr/lib/pymodules/python2.6/nose/case.py&quot;, line 183, in runTest
+    self.test(*self.arg)
+  File &quot;test_netflix.py&quot;, line 17, in check_exists
+    assert netflix.get_title(driver, title)
+AssertionError
+</failure></testcase></testsuite>
