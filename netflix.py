@@ -23,8 +23,6 @@ def get_title(driver, title):
 			lambda driver: driver.find_element_by_xpath(xpath))
 
 	titles = driver.find_elements_by_class_name('title')
-	if not titles:
-		raise Exception('No title classes')
 	for result in titles:
 		if result.text.find(title) != -1:
 			return True
