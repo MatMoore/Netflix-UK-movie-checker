@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:output method="html"/>
 	<xsl:template match="/">
-		<xsl:text disable-output-escaping="yes"><![CDATA[<!DOCTYPE html">]]></xsl:text>
+		<xsl:text disable-output-escaping="yes"><![CDATA[<!DOCTYPE html>]]></xsl:text>
 		<html>
 			<head>
 				<meta charset="utf-8" />
@@ -16,7 +16,7 @@
 					li {padding: 10px 10px;}
 					.success { color: #0c0;}
 					.failure {color: #c00;}
-					.success, .failure {float:right; margin-left:1em;}
+					.success, .failure {float:right;}
 					.hover {background-color: #fff; color: #000;}
 				</style>
 			</head>
@@ -30,11 +30,11 @@
 	</xsl:template>
 
 	<xsl:template match="failure">
-		<li onmouseover="this.setAttribute('class', 'hover')" onmouseout="this.setAttribute('class', '')"><xsl:value-of select="substring(../@name, 26, (string-length(../@name)) - 28)"/><span class="failure">&#x2718;</span></li>
+		<li onmouseover="this.setAttribute('class', 'hover')" onmouseout="this.setAttribute('class', '')"><xsl:value-of select="substring(../@name, 26, (string-length(../@name)) - 28)"/> <span class="failure">&#x2718;</span></li>
 	</xsl:template>
 
 	<xsl:template match="testcase[.='']">
-		<li onmouseover="this.setAttribute('class', 'hover')" onmouseout="this.setAttribute('class', '')"><xsl:value-of select="substring(@name, 26, (string-length(@name)) - 28)"/><span class="success">&#x2714;</span></li>
+		<li onmouseover="this.setAttribute('class', 'hover')" onmouseout="this.setAttribute('class', '')"><xsl:value-of select="substring(@name, 26, (string-length(@name)) - 28)"/> <span class="success">&#x2714;</span></li>
 	</xsl:template>
 
 	<xsl:template match="text()"></xsl:template>
